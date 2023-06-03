@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar img{
+    height: 30px;
+}
+.nav-link{
+    color: white;
+}
+footer img{
+    height: 24px;
+}
